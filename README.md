@@ -14,3 +14,6 @@ Carlos Correa, Jacob Bartnett, Will Frasier, Zhaolong Zhang
 [Poverty data](https://data.census.gov/table/ACSST5Y2022.S1701?g=040XX00US06$1400000)
 
 [Shape Files](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.2022.html#list-tab-790442341)
+
+## Created Data File
+[Final Project Data](https://github.com/JBartnett/Group-Project/blob/main/DataProjectFiles.xls)
