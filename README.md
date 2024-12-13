@@ -16,4 +16,4 @@ Carlos Correa, Jacob Bartnett, Will Frasier, Zhaolong Zhang
 [Shape Files](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.2022.html#list-tab-790442341)
 
 ## Created Data File
-[Final Project Data](https://github.com/JBartnett/Group-Project/blob/main/Data/ProjectGeoData.gdb.zip))
+[Final Project Data](https://github.com/JBartnett/Group-Project/blob/main/Data/ProjectGeoData.gdb.zip)
